@@ -1,11 +1,13 @@
+package TP1;
+
 public class Main {
     public static void main(String[] args) {
 
-//        Node<T> n1 = new Node<T>(1, null);
-//        Node<T> n2 = new Node<T>(2, null);
-//        Node<T> n3 = new Node<T>(3, null);
-//        Node<T> n4 = new Node<T>(4, null);
-//        Node<T> n5 = new Node<T>(5, null);
+//        TP1.Node<T> n1 = new TP1.Node<T>(1, null);
+//        TP1.Node<T> n2 = new TP1.Node<T>(2, null);
+//        TP1.Node<T> n3 = new TP1.Node<T>(3, null);
+//        TP1.Node<T> n4 = new TP1.Node<T>(4, null);
+//        TP1.Node<T> n5 = new TP1.Node<T>(5, null);
 //        n1.setNext(n2);
 //        n2.setNext(n3);
 //        n3.setNext(n4);
